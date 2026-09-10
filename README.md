@@ -5,7 +5,7 @@ A beginner-friendly **Quiz Management System written in C** that allows users to
 <div align="center">
 
 <img src="https://img.shields.io/badge/C-Programming- orange?style=for-the-badge&logo=c" alt="C Language Badge">
-<img src="httpsimg.shields.io/badge/Platform-Linux%20%7C%20macOS- blue?style=for-the-badge" alt="Platform Badge">
+<img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS- blue?style=for-the-badge" alt="Platform Badge">
 <img src="https://img.shields.io/github/repo-size/mdalfesanymolla/Quiz?style=for-the-badge" alt="Repo Size Badge">
 
 </div>
